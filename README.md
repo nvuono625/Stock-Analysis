@@ -26,6 +26,7 @@ The original script was written during module 2 as we learned how to apply condi
 ![Resources/All_Stocks_2017_Original_Run_Time](/Resources/All_Stocks_2017_Original_Run_Time.png)
 ![Resources/All_Stocks_2017_Refactored_Run_Time](/Resources/All_Stocks_2017_Refactored_Run_Time.png)
 
+2.6484375 second improvement
 
 ### Original vs. Refactored VBA Script for Elapsed Run Time (2018)
 
