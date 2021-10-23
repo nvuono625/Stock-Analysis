@@ -12,25 +12,25 @@ After analyzing stocks in both years, 2017 and 2018. It signifies the importance
 ### A Comparison of Stock Performance, 2017 and 2018
 Below are the charts that visualize the performance of the same stocks in two different years. The chart includes three columns; “Ticker”, “Total Daily Volume”, and “Return”. For those that need clarification; a ticker is an abbreviation that identifies a specific stock, the total daily volume is the amount of shares trade in a 24 hours, and the return is the performance of the stock, measure in a percent, is either a loss or growth. As you can see, there are Excel cells in the “Return” column that are either green or red. This enhances how we visualize the chart and quickly indicates the winners and losers. In both years, there were only two stocks that yielded a positive return in both years.
 
-![Resources/All_Stocks_2017_And_2018_Charts](/Resources/ All_Stocks_2017_And_2018_Charts.png)
+![Resources/All_Stocks_2017_And_2018_Charts](/Resources/All_Stocks_2017_And_2018_Charts.png)
 
 Although, it is good to look at performance during a single year to discover trends. It could also be beneficial to make an additional chart that looks at the entire history of the stock. Ex. If you notice the row with the ticker “SEDG” you can identify that although it reported a 7.8% loss in the year 2018, it still however has a net positive of 176.7% which is a better performance than the above stock, ticker “RUN”, which has only a return of 89.5% in the last two years.
 
 ### A Comparison of VBA Script and Elapsed Run Time 
 The original script was written during module 2 as we learned how to apply conditional formatting and for loops to run this analysis. Afterwards, our assignment was to refactor this code into a more concise format that uses the same logic just more efficiently and simplified for the computer to compute the script in a faster run time. The original script is compared to the refactored script below 
 
-![Resources/VBA_Challenge_Refactored_vs_Orginal](/Resources/ VBA_Challenge_Refactored_vs_Orginal.png)
+![Resources/VBA_Challenge_Refactored_vs_Orginal](/Resources/VBA_Challenge_Refactored_vs_Orginal.png)
 
 ### Original vs. Refactored VBA Script for Elapsed Run Time (2017)
 
-![Resources/All_Stocks_2017_Original_Run_Time](/Resources/ All_Stocks_2017_Original_Run_Time.png)
-![Resources/All_Stocks_2017_Refactored_Run_Time](/Resources/ All_Stocks_2017_Refactored_Run_Time.png)
+![Resources/All_Stocks_2017_Original_Run_Time](/Resources/All_Stocks_2017_Original_Run_Time.png)
+![Resources/All_Stocks_2017_Refactored_Run_Time](/Resources/All_Stocks_2017_Refactored_Run_Time.png)
 
 
 ### Original vs. Refactored VBA Script for Elapsed Run Time (2018)
 
-![Resources/All_Stocks_2018_Original_Run_Time](/Resources/ All_Stocks_2018_Original_Run_Time.png)
-![Resources/All_Stocks_2018_Refactored_Run_Time](/Resources/ All_Stocks_2018_Refactored_Run_Time.png)
+![Resources/All_Stocks_2018_Original_Run_Time](/Resources/All_Stocks_2018_Original_Run_Time.png)
+![Resources/All_Stocks_2018_Refactored_Run_Time](/Resources/All_Stocks_2018_Refactored_Run_Time.png)
 
 ## Summary: 
 - What are the advantages or disadvantages of refactoring code?
