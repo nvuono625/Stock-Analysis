@@ -26,12 +26,14 @@ The original script was written during module 2 as we learned how to apply condi
 ![Resources/All_Stocks_2017_Original_Run_Time](/Resources/All_Stocks_2017_Original_Run_Time.png)
 ![Resources/All_Stocks_2017_Refactored_Run_Time](/Resources/All_Stocks_2017_Refactored_Run_Time.png)
 
-2.6484375 second improvement
+Improved by 2.6484375 seconds
 
 ### Original vs. Refactored VBA Script for Elapsed Run Time (2018)
 
 ![Resources/All_Stocks_2018_Original_Run_Time](/Resources/All_Stocks_2018_Original_Run_Time.png)
 ![Resources/All_Stocks_2018_Refactored_Run_Time](/Resources/All_Stocks_2018_Refactored_Run_Time.png)
+
+Improved by 2.5820315 seconds
 
 ## Summary: 
 - What are the advantages or disadvantages of refactoring code?
